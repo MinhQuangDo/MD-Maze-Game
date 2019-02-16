@@ -1,0 +1,12 @@
+{
+"companyName": "DefaultCompany",
+"productName": "MD Maze",
+"dataUrl": "html-file.data.unityweb",
+"wasmCodeUrl": "html-file.wasm.code.unityweb",
+"wasmFrameworkUrl": "html-file.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
